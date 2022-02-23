@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6b38b4e-b95e-4837-8a51-7fa9f45d8513" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../go1.16" />
+  <component name="ProjectId" id="25VWGgEXnkynMrlZKVsxM9YHETj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day1-http-base/base3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build gee-web/day1-http-base/base3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gee" />
+      <working_directory value="$PROJECT_DIR$/../gee-web" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/../gee-web/day1-http-base/base3/main.go" />
+      <package value="gee-web/day1-http-base/base3" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build gee-web/day1-http-base/base3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6b38b4e-b95e-4837-8a51-7fa9f45d8513" name="Default Changelist" comment="" />
+      <created>1645612639750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645612639750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645619528748">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1645619528748" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1645619823920">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1645619823920" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1645619823918">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1645619823918" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1645619823917">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1645619823917" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1645619823919">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1645619823919" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1645618693759">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1645618693759" />
+  </component>
+</project>
