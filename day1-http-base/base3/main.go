@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gee-web/day1-http-base/base3/gee"
+	"base3/gee"
 	"net/http"
 )
 
@@ -16,6 +16,7 @@ func main()  {
 			fmt.Fprintf(w, "Header[%q] = %q\n", k, v)
 		}
 	})
-	r.Run("9999")
+	r.Run(":9993")
+	fmt.Print("done")
 }
 
